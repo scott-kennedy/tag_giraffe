@@ -1,6 +1,6 @@
 Gem::Specification.new do |s|
   s.name        = 'tag_giraffe'
-  s.version     = '0.0.2'
+  s.version     = '0.1.0'
   s.authors     = [ 'Scott Kennedy' ]
   s.email       = [ 'skennedy84@gmail.com' ]
   s.homepage    = 'https://github.com/scott-kennedy/tag_giraffe'
